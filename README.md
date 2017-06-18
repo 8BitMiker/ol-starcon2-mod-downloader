@@ -1,6 +1,6 @@
 # Star Control 2 .mod Downloader
 
-grabs all the tasty mods from http://wiki.uqm.stack.nl/Star_Control_Music. Hopfully doing this isn't against some TOS somewhere!
+grabs all the tasty mods from http://wiki.uqm.stack.nl/Star_Control_Music. 
 
 Heres the full list of what this should grab:
 
